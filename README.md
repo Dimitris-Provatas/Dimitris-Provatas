@@ -10,9 +10,9 @@
 ---
 
 ### More about me:
-[<img align="left" alt="jimis-provatas" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/soundcloud.svg" />][soundcloud]
-[<img align="left" alt="dimitris-provatas" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="one_coding_sheep" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jimis-provatas" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/soundcloud.svg" target="_blank" />][soundcloud]
+[<img align="left" alt="dimitris-provatas" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
+[<img align="left" alt="one_coding_sheep" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />][instagram]
 <br>
 
 ---
