@@ -10,7 +10,7 @@
 ---
 
 ### More about me:
-[<img align="left" alt="jimis-provatas" width="32px" src="https://b7.pngbarn.com/png/412/385/soundcloud-mobile-app-music-app-store-soundcloud-icon-png-clip-art.png" />][soundcloud]
+[<img align="left" alt="jimis-provatas" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/soundcloud.svg" />][soundcloud]
 [<img align="left" alt="dimitris-provatas" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="one_coding_sheep" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
