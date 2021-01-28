@@ -1,15 +1,18 @@
 ### Greatings, I am Dimitris, an aspiring web and game developer.
 
 ## I currently work as a junior full stack and hybrid app developer
+
 - :computer: I currently work with Angular + Ionic for apps and Unity for games!
 - :eyeglasses: I have worked on native iOs and Android projects!
 - :rainbow: My dream is to make my own game engine one day!
 - :notes: I love writing songs and playing the bass guitar!
-- :joystick: I am a huge gaming fan, currently playing [Destiny 2][destiny2] non-stop!
+- :joystick: I am a huge gaming fan, currently playing VR games mainly!
+- :sparkles: In the end of January 2021, we launched a full-stack solution for a friend's online magazine, using Laravel and VueJS-NuxtJS. You can check it out here: [Banal Magazine][banal]
 
 ---
 
 ### More about me:
+
 [<img align="left" alt="jimis-provatas" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/soundcloud.svg" target="_blank" />][soundcloud]
 [<img align="left" alt="dimitris-provatas" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
 [<img align="left" alt="one_coding_sheep" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />][instagram]
@@ -18,25 +21,27 @@
 ---
 
 # Game jams I have participated
+
 ### In chronological order
-- [Pandormou][pandormou]
+
+- Global Game Jam 2021 Athens (in progress)
+- [Pandormou]
 - [The Kidnapping][kidnapping]
 - [Pathway to Ascension][ascension]
 - [Alien Escape][escape]
-- [Running Misadventures][missadventures] (my favourite until now)
-- [Topdowngrounds][topdowngrounds]
+- [Running Misadventures][missadventures] (my favourite so far)
+- [Topdowngrounds]
 - [Soul Chase][soulchase]
-- [Energia][energia]
+- [Energia]
 - [The Downtop Massacre: Pepper Invasion][downtop] (my first ever gamejam, not my first game though)
 
 [![Dimitris' github stats](https://github-readme-stats.vercel.app/api?username=Dimitris-Provatas)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitris-Provatas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[destiny2]: https://www.bungie.net/7/en/Destiny/NewLight
+[banal]: https://banalmagazine.gr/
 [soundcloud]: https://soundcloud.com/jimis-provatas
 [linkedin]: https://www.linkedin.com/in/dimitris-provatas-81100316a/
 [instagram]: https://www.instagram.com/one_coding_sheep/
-
 [pandormou]: https://aemiliu5.itch.io/pandormou
 [kidnapping]: https://gamejolt.com/games/the-kidnapping/443473
 [ascension]: https://aemiliu5.itch.io/pathway-to-ascension
