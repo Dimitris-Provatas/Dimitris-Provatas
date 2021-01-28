@@ -7,7 +7,7 @@
 - :rainbow: My dream is to make my own game engine one day!
 - :notes: I love writing songs and playing the bass guitar!
 - :joystick: I am a huge gaming fan, currently playing VR games mainly!
-- :sparkles: In the end of January 2021, we launched a full-stack solution for a friend's online magazine, using Laravel and VueJS-NuxtJS. You can check it out here: [Banal Magazine][banal]
+- :sparkles: At the end of January 2021, we launched a full-stack solution for a friend's online magazine, using Laravel and VueJS-NuxtJS. You can check it out here: [Banal Magazine][banal]
 
 ---
 
