@@ -24,7 +24,7 @@
 
 ### In chronological order
 
-- Global Game Jam 2021 Athens (in progress)
+- [Global Game Jam 2021 Athens] (One
 - [Pandormou]
 - [The Kidnapping][kidnapping]
 - [Pathway to Ascension][ascension]
