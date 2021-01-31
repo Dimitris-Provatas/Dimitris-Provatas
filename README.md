@@ -24,7 +24,7 @@
 
 ### In chronological order
 
-- [Baggatch] (One of the great ones, was made for the [Global Game Jam Athens 2021][ggja])
+- [Baggatch] (One of the great ones, our entry for the [Global Game Jam Athens 2021][ggja])
 - [Pandormou]
 - [The Kidnapping][kidnapping]
 - [Pathway to Ascension][ascension]
