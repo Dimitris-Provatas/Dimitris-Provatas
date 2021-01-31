@@ -24,7 +24,7 @@
 
 ### In chronological order
 
-- [Global Game Jam 2021 Athens] (One
+- [Baggatch] (One of the great ones, was made for the [Global Game Jam Athens 2021][ggja])
 - [Pandormou]
 - [The Kidnapping][kidnapping]
 - [Pathway to Ascension][ascension]
@@ -51,3 +51,5 @@
 [soulchase]: https://gamejolt.com/games/soulchase/301656
 [energia]: https://gamejolt.com/games/energia/273401
 [downtop]: https://gamejolt.com/games/the-downtop-massacre-pepper-invasion/217627
+[ggja]: https://globalgamejam.org/2021/games/baggatch-3
+[baggatch]: https://nickzouk.itch.io/baggatch
