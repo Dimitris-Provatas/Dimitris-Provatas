@@ -2,8 +2,8 @@
 
 ## I currently work as a junior full stack and hybrid app developer
 
-- :computer: I currently work with Angular + Ionic for apps and Unity for games!
-- :eyeglasses: I have worked on native iOs and Android projects!
+- :computer: I currently work with VueJS/ NuxtJS for front end apps, Laravel for backend apps and Unity for games / VR modules!
+- :eyeglasses: I have worked on native iOs and Android projects, as well as with hybrid apps with Angular and Ionic, Capacitor and Cordova!
 - :rainbow: My dream is to make my own game engine one day!
 - :notes: I love writing songs and playing the bass guitar!
 - :joystick: I am a huge gaming fan, currently playing VR games mainly!
@@ -36,6 +36,7 @@
 - [The Downtop Massacre: Pepper Invasion][downtop] (my first ever gamejam, not my first game though)
 
 ### General Stats of Mine
+
 [![Dimitris' github stats](https://github-readme-stats.vercel.app/api?username=Dimitris-Provatas)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitris-Provatas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
