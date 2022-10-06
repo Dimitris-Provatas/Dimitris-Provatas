@@ -3,7 +3,7 @@
 ## I currently work as a full stack developer at INVRTUAL.
 
 - :computer: I currently work with VueJS/ NuxtJS for front end apps, Laravel for backend apps and Unity for games / VR modules!
-- 📄 My main languages are PHP for backend, Typescript HTML CSS for frontend and C# for Game Development, but I learn to work with low level languages, such as Rust and C++!
+- :page: My main languages are PHP for backend, Typescript HTML CSS for frontend and C# for Game Development, but I learn to work with low level languages, such as Rust and C++!
 - :eyeglasses: I have worked on native iOs and Android projects, as well as with hybrid apps with Angular and Ionic, Capacitor and Cordova!
 - :rainbow: My dream is to make my own game engine one day!
 - :notes: I love writing songs and playing the bass guitar!
