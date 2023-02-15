@@ -1,11 +1,12 @@
-### Greatings, I am Dimitris, an aspiring web and game developer. I am always motivated to learn new technologies and sharpen my skills!
+### Greatings, I am Dimitris, a highly motivated Full Stack and Game Developer. I am always motivated to learn new technologies and sharpen my skills!
 
 ## I currently work as a full stack developer at INVRTUAL.
 
-- :computer: I currently work with VueJS/ NuxtJS for front end apps, Laravel for backend apps and Unity for games / VR modules!
-- :page_facing_up: My main languages are PHP for backend, Typescript HTML CSS for frontend and C# for Game Development, but I learn to work with low level languages, such as Rust and C++!
+- :muscle: I have my [portfolio site], that displays all of my (personal, publicly available) work. Feel free to take a look around! You might find something you like!
+- :computer: I currently work with VueJS/ NuxtJS for frontend apps, Laravel for backend apps and Unity for games / VR modules!
+- :page_facing_up: My main languages are PHP for backend, Typescript-HTML-CSS for frontend and C# for Game Development, but I learn to work with low level languages, such as Rust, Go and C++!
+- :rainbow: My dream is to make my very own game engine with Rust one day!
 - :eyeglasses: I have worked on native iOs and Android projects, as well as with hybrid apps with Angular and Ionic, Capacitor and Cordova!
-- :rainbow: My dream is to make my own game engine one day!
 - :notes: I love writing songs and playing the bass guitar!
 - :joystick: I am a huge gaming fan, currently playing VR games mainly!
 - :sparkles: At the end of January 2021, we launched a full-stack solution for a friend's online magazine, using Laravel and VueJS-NuxtJS. You can check it out here: [Banal Magazine][banal]
@@ -41,6 +42,7 @@
 [![Dimitris' github stats](https://github-readme-stats.vercel.app/api?username=Dimitris-Provatas)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitris-Provatas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[portfolio site]: https://thesheepster.net
 [banal]: https://banalmagazine.gr/
 [soundcloud]: https://soundcloud.com/jimis-provatas
 [linkedin]: https://www.linkedin.com/in/dimitris-provatas-81100316a/
