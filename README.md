@@ -26,7 +26,8 @@
 
 ### In chronological order
 
-- [Baggatch] (One of the great ones, our entry for the [Global Game Jam Athens 2021][ggja])
+- [Paternitree] (Another great one, our entry for the [Global Game Jam Athens 2023][ggja23])
+- [Baggatch] (One of the great ones, our entry for the [Global Game Jam Athens 2021][ggja21])
 - [Pandormou]
 - [The Kidnapping][kidnapping]
 - [Pathway to Ascension][ascension]
@@ -56,5 +57,7 @@
 [soulchase]: https://gamejolt.com/games/soulchase/301656
 [energia]: https://gamejolt.com/games/energia/273401
 [downtop]: https://gamejolt.com/games/the-downtop-massacre-pepper-invasion/217627
-[ggja]: https://globalgamejam.org/2021/games/baggatch-3
+[ggja21]: https://globalgamejam.org/2021/games/baggatch-3
 [baggatch]: https://nickzouk.itch.io/baggatch
+[ggja23]: https://globalgamejam.org/2023/games/untitled-ggj23-9
+[paternitree]: https://nickzouk.itch.io/paternitree
