@@ -1,6 +1,9 @@
 ### Greatings, I am Dimitris, a highly motivated Full Stack and Game Developer. I am always motivated to learn new technologies and sharpen my skills!
 
-## I currently work as a full stack developer at INVRTUAL.
+## I currently work as a backend software developer at AnyDesk.
+I have also worked at:
+- INVRTUAL GmbH
+- CWA
 
 - :muscle: I have my [portfolio site], that displays all of my (personal, publicly available) work. Feel free to take a look around! You might find something you like!
 - :computer: I currently work with VueJS/ NuxtJS for frontend apps, Laravel for backend apps and Unity for games / VR modules!
